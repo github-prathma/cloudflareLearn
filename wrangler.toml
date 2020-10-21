@@ -1,0 +1,6 @@
+name = "cloud-assessment"
+type = "webpack"
+account_id = "b6cd55a075df8391572449f15721b30b"
+workers_dev = true
+route = ""
+zone_id = ""
